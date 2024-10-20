@@ -1,0 +1,32 @@
+{
+  "name": "adrincode-themes-tmnt",
+  "displayName": "TMNT Theme",
+  "description": "Teenage Mutant Ninja Turtles palette applied on dark and light theme",
+  "version": "3.0.0",
+	"license": "MIT",
+	"publisher": "adrincode",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TMNT Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/tmnt-light-theme.json"
+      },
+      {
+        "label": "TMNT Dark Theme",
+        "uiTheme": "vs",
+        "path": "./themes/tmnt-dark-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianns/adrincode-themes-tmnt.git"
+  }
+}
