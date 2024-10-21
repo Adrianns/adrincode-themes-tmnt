@@ -2,9 +2,10 @@
   "name": "tmnt-theme",
   "displayName": "TMNT Theme",
   "description": "Teenage Mutant Ninja Turtles palette applied on dark and light theme",
-  "version": "3.0.1",
+  "version": "3.1.0",
 	"license": "MIT",
 	"publisher": "adrincode",
+  "icon": "logo_tmnt_theme.png",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -22,6 +23,16 @@
         "label": "TMNT Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/tmnt-dark-theme.json"
+      },
+      {
+        "label": "Leonardo Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tmnt-leo-dark-theme.json"
+      },
+      {
+        "label": "Donatello Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tmnt-don-dark-theme.json"
       }
     ]
   },
