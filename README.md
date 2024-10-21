@@ -1,11 +1,12 @@
 # TMNT Theme
 
  Teenage Mutant Ninja Turtles palette applied on dark and light theme
- 
-### Dark
+
+## Dark
 
 ![dark theme screenshot](dark.png)
-### Light
+
+## Light
 
 ![light theme screenshot](light.png)
 
