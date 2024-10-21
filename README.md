@@ -9,6 +9,4 @@
 
 ![light theme screenshot](light.png)
 
-
-
 **Enjoy!**
